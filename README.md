@@ -42,7 +42,7 @@ I specialize in both **frontend** and **backend** development, always pushing fo
 
 ## 📬 Connect With Me
 <p>
-  <a href="https://instagram.com/[your_instagram](https://www.instagram.com/developer__soft?igsh=cGoyOW14dHlmam1w)" target="_blank">
+  <a href="https://instagram.com/https://www.instagram.com/developer__soft" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/www.linkedin.com/in/rajadas1636" target="_blank">
