@@ -55,10 +55,10 @@ I specialize in both **frontend** and **backend** development, always pushing fo
 
 ---
 
-## 🐍 See how a snake eat my contributions...
 
 
-![snake gif](https://github.com/raja-1432362/raja-1432362/blob/output/github-contribution-grid-snake.gif)
+
+
 
 
 
